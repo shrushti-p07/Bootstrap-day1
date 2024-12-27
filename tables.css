@@ -1,0 +1,6 @@
+table{width: 100%;border-collapse: collapse;
+    text-align: center;
+border:1px solid black}
+td,th{border: 1px solid black;}
+tr:nth-child(even){background-color:beige;}
+

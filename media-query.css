@@ -1,0 +1,22 @@
+@media only screen and (max-width:320px){
+    div{
+        background-color: black;
+    }
+}
+@media only screen and (max-width:760px){
+    div{
+        background-color: pink;
+    }
+}
+    .outer-container{
+        background-color: lightblue;
+        width: 100%;
+        height:200px;
+    }
+    .inner-container1,.inner-container2,.inner-container3{
+        height:150px;
+        width: 150px;
+        margin: 10px;
+        display: inline-block;
+        background-color: grey;
+    }

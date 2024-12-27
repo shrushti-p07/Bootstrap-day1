@@ -1,0 +1,39 @@
+.subscribe-btn{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.subscribe-btn:hover{
+   opacity: 0.5;
+}
+.join-btn{
+    background-color: lightgrey;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    
+
+
+}
+.join-btn:focus{
+    opacity: 0.8;
+}
+.getit-btn{
+    background-color: white;
+    color: lightblue;
+    border-radius: 20px;
+    padding:10px 10px;
+    border-color: lightblue;
+    cursor: pointer;
+
+
+}
+.getit-btn:hover{
+    background-color: rgb(245, 2545, 2545);
+}
